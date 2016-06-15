@@ -7,6 +7,7 @@ published-date: June 2016
 category: Books
 isbn: 978-0-14-330919-2
 publisher-page: http://www.penguin.co.nz/products/9780143309192
+ribbon: New!
 
 ---
 

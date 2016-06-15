@@ -17,6 +17,9 @@
                                     <i class="fa fa-search-plus fa-3x"></i>
                                 </div>
                             </div>
+                            {% if post.ribbon %}
+                            <div class="ribbon"><span>{{ post.ribbon }}</span></div>
+                            {% endif %}
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
                     </div>
