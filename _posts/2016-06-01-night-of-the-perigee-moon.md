@@ -14,3 +14,5 @@ All Tilly Angelica wants for her thirteenth birthday is to be normal! But with h
 As the enchanted Angelicas gather and Arial Manor becomes a madhouse, Tilly's troubles are tripled by her creepy cousin Prosper, and his sinister plot to bewitch the family by harnessing the powers of the Perigee Moon.
 
 *Night of the Perigee Moon* is the winner of the 2013 Tom Fitzgibbon Award for a previously unpublished writer.
+
+Available from [Mighty Ape](https://www.mightyape.co.nz/product/Night-of-the-Perigee-Moon-Paperback/21853665).
