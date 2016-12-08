@@ -6,7 +6,7 @@ alt: Frankie Potts and the Bikini Burglar
 published-date: June 2016
 category: Books
 isbn: 978-0-14-330919-2
-publisher-page: http://www.penguin.co.nz/products/9780143309192
+publisher-page: http://penguin.co.nz/books/frankie-potts-and-the-bikini-burglar-9780143309192
 ribbon: New!
 
 ---

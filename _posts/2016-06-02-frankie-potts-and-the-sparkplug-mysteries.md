@@ -6,7 +6,7 @@ alt: Frankie Potts and the Sparkplug Mysteries
 published-date: June 2016
 category: Books
 isbn: 978-0-14-330918-5
-publisher-page: http://www.penguin.co.nz/products/9780143309185
+publisher-page: http://penguin.co.nz/books/frankie-potts-and-the-sparkplug-mysteries-9780143309185
 ribbon: New!
 
 ---
