@@ -27,3 +27,9 @@ Check DNS config:
 ```
 $ bundle exec github-pages health-check
 ```
+
+Update github-pages gem:
+
+```
+$ bundle update github-pages
+```
