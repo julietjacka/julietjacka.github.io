@@ -14,6 +14,12 @@ Serve a local site on http://localhost:4000
 $ bundle exec jekyll serve
 ```
 
+Serve a local site including posts with a future date
+
+```
+$ bundle exec jekyll serve --future
+```
+
 ## Useful github-pages commands
 
 Show jekyll versions:
